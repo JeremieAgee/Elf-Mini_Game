@@ -7,7 +7,7 @@ A project for practicing JavaScript
 
 This project is half built for you.
 
-Your job is to use the techniques we learned this week to add to this game. Now, it can change red and turn left. You will need to make it change green and blue. And also turn right, up, and down.
+Your job is to use the techniques we learned this week to add to this game. Now, it can change red and turn left. You will need to make it change green and blue. And also turn right, up, and down. you can use keyboard to move collect cookies for points and avoid the hole.
 
 (As a bonus, you can make it move!)
 
@@ -38,5 +38,5 @@ If you have code that doesn't work, stop and try to figure it out before moving 
 * Anthing else, and add that to the Readme!
 
 ## Credits
-
+Background Image: Google Search
 Elf Images: https://github.com/openai/gym/tree/master/gym/envs/toy_text/img (MIT License)
