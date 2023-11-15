@@ -40,3 +40,4 @@ If you have code that doesn't work, stop and try to figure it out before moving 
 ## Credits
 Background Image: Google Search
 Elf Images: https://github.com/openai/gym/tree/master/gym/envs/toy_text/img (MIT License)
+updates
