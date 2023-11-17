@@ -2,7 +2,6 @@
 
 A project for practicing JavaScript
 
-
 ## Introduction
 
 This project is half built for you.
@@ -10,7 +9,6 @@ This project is half built for you.
 Your job is to use the techniques we learned this week to add to this game. Now, it can change red and turn left. You will need to make it change green and blue. And also turn right, up, and down. you can use keyboard to move collect cookies for points and avoid the hole.
 
 (As a bonus, you can make it move!)
-
 
 ## Detailed instructions
 
@@ -27,17 +25,18 @@ If you have code that doesn't work, stop and try to figure it out before moving 
 
 ### Bonus
 
-* Use Git to track your changes.
-* Add Bootstrap to the project.
-* Try making the elf move when you click the buttons.
-* Try making the elf move when you press the arrow buttons on the keyboard.
-* Try making the elf move when you click on the elf sprite.
-* Research the `if` statement and try to prevent the elf from moving off the "board".
-* Add other sprites to the board, like cookie or a hole.
-* Add a background.
-* Anthing else, and add that to the Readme!
+- Use Git to track your changes.
+- Add Bootstrap to the project.
+- Try making the elf move when you click the buttons.
+- Try making the elf move when you press the arrow buttons on the keyboard.
+- Try making the elf move when you click on the elf sprite.
+- Research the `if` statement and try to prevent the elf from moving off the "board".
+- Add other sprites to the board, like cookie or a hole.
+- Add a background.
+- Anthing else, and add that to the Readme!
 
 ## Credits
+
 Background Image: Google Search
 Elf Images: https://github.com/openai/gym/tree/master/gym/envs/toy_text/img (MIT License)
 updates
